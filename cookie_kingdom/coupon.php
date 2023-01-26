@@ -1,1 +1,12 @@
-{"statusCode":200,"message":"Quotes","pagination":{"currentPage":1,"nextPage":2,"totalPages":43},"totalQuotes":429,"data":[{"quoteGenre":[""],"_id":"63c2847a1516c05306d262ce","quoteText":"My heart leaps up when I beholdA rainbow in the sky:So was it when my life began","quoteAuthor":"So is it now I am a man"},{"quoteGenre":[""],"_id":"63c284b31516c05306d3613d","quoteText":"WU WEIflow of Life governed by Taoflow of changespontaneous","quoteAuthor":"natural"},{"quoteGenre":[""],"_id":"63c284f11516c05306d4689b","quoteText":"A man of few words will rarely be thoughtless in his speech","quoteAuthor":" he will measure every word."},{"quoteGenre":[""],"_id":"63c284f41516c05306d475a8","quoteText":"Always pray in good and bad times","quoteAuthor":" tough times shouldn't be your only reasons to remember God."},{"quoteGenre":[""],"_id":"63c285061516c05306d4c6ab","quoteText":"The spot where we intend to fight must not be made known","quoteAuthor":" for then the enemy will have to prepare against a possible attack at several different points"},{"quoteGenre":[""],"_id":"63c285081516c05306d4ce76","quoteText":"Down to earth person have two hearts","quoteAuthor":" one heart crying and the other patient."},{"quoteGenre":[""],"_id":"63c285111516c05306d4f59a","quoteText":"This wasn't a strange place","quoteAuthor":" it was a new one."},{"quoteGenre":[""],"_id":"63c285161516c05306d50bf8","quoteText":"Management works in the system","quoteAuthor":"Leadership works on the system"},{"quoteGenre":[""],"_id":"63c2851a1516c05306d51e65","quoteText":"Hold strong to your faith","quoteAuthor":" better days are being prepared for you by God. So be patient enough to get rewarded for all your pain and suffering."},{"quoteGenre":[""],"_id":"63c2851c1516c05306d526a4","quoteText":"Failure isn't your enemy","quoteAuthor":" it only comes to teach and prepare you for future victories."}]}
+{"statusCode":200,"message":"Quotes","pagination":{"currentPage":1,"nextPage":2,"totalPages":43},"totalQuotes":429,
+"data":[
+{"quoteGenre":[""],"_id":"63c2847a1516c05306d262ce",
+"quoteText":"My heart leaps up when I beholdA rainbow in the sky:So was it when my life began",
+"quoteAuthor":"So is it now I am a man"},
+
+
+{"quoteGenre":[""],"_id":"63c2851c1516c05306d526a4",
+"quoteText":"Failure isn't your enemy",
+"quoteAuthor":" it only comes to teach and prepare you for future victories."}
+
+]}
