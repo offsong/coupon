@@ -1,5 +1,5 @@
 {
-"couponlist" : [
+"favoritelist" : [
 {
 	"id": 1,
 	"name": "HAPPY2023",
